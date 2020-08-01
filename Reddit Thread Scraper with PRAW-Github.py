@@ -40,7 +40,7 @@ posts = []
 # In[173]:
 
 
-subreddit = reddit.subreddit('eldertrees')
+subreddit = reddit.subreddit('name of the subthread')
 
 
 # In[174]:
